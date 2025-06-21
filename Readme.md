@@ -12,4 +12,4 @@ The primary objective of this analysis was to identify the popularity and trends
 
 **SQL skills used:** CTEs, Create view, Group By, Aggregations, Joins, Data cleaning, Data manipulation, Filtering & Sorting.
 
-View SQL : [Book_database](Book_query.sql)
+View SQL : [Book_database](./Book_database/Book_query.sql)
